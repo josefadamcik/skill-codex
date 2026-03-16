@@ -6,7 +6,7 @@ description: Use when the user asks to run Codex CLI (codex exec, codex resume) 
 # Codex Skill Guide
 
 ## Running a Task
-1. Use `gpt-5.3-codex` as model to with reasoning  reasoning effort `high`.
+1. Use `gpt-5.4` as model to with reasoning  reasoning effort `high`.
 2. Select the sandbox mode required for the task; default to `--sandbox read-only` unless edits or network access are necessary.
 3. Assemble the command with the appropriate options:
    - `-m, --model <MODEL>`
